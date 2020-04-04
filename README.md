@@ -1,2 +1,2 @@
 # StaRCon
-This is a utility for brute force attacks on rcon minecraft server
+This is a program  for brute force attacks on rcon minecraft server

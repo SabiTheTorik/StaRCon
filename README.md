@@ -16,7 +16,7 @@ in pass.txt - password
 
 ip - ip
 
-port - most likely 25576
+port - rcon port
 
 To exe:
 
